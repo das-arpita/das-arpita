@@ -1,8 +1,8 @@
 # default configuration
-#baseURL = "http://demo.gethugothemes.com/kross/"
+baseURL = "https://das-arpita.github.io/"
 languageCode = "en-us"
 summaryLength = "10"
-theme = "kross-hugo"
+theme = "code"
 title = "Arpit Das"
 
 # css plugins

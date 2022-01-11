@@ -1,9 +1,9 @@
 ---
 title: "Artwork Design"
 date: 2019-05-12T12:14:34+06:00
-image: "images/portfolio/item-2.png"
+image: "images/portfolio/IMG_4812.jpg"
 client: "John Doe"
-project_url : "https://themefisher.com/"
+project_url : "https://das-arpita.github.io/"
 categories: ["branding"]
 description: "This is meta description."
 draft: false
